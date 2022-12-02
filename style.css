@@ -1,0 +1,46 @@
+* {
+  text-align: center;
+}
+h1 {
+  color: green;
+  font-family: "Open Sans", sans-serif;
+  font-size: 100px;
+}
+
+h2 {
+  color: rgb(87, 143, 8);
+  font-family: "Open Sans", sans-serif;
+  font-size: 60px;
+  margin: 2px 2px 2px 2px;
+}
+
+body {
+  font-family: "Open Sans: ital", sans-serif;
+  font-size: 20px;
+  color: #021b31;
+  background-color: #b1e880;
+  margin: 6mm;
+}
+ol {
+  display: inline-block;
+}
+img {
+  width: 400px;
+  height: 400px;
+  border-radius: 20px;
+}
+.galeria {
+  display: flex;
+  justify-content: space-between;
+}
+.przepis {
+  display: inline-block;
+}
+.imgOpacity {
+  opacity: 0.7;
+}
+
+.blokTekstu {
+  margin: 2px 2px 2px 2px;
+  border: 10px;
+}
